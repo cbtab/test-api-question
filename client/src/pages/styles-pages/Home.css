@@ -1,0 +1,28 @@
+.question-card {
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  color: black;
+  min-height: 100px;
+  min-width: 500px;
+}
+
+.question-holder {
+  margin: 20px;
+}
+
+#view-button {
+  background-color: transparent;
+  color: black;
+  align-items: center;
+  height: 10%;
+}
+
+p {
+  color: rgb(107, 107, 107);
+}
